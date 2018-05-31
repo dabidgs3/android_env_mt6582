@@ -1,0 +1,43 @@
+Welcome to the world of Android you should start with theses stuffs
+
+1] This video for beginners who never compiled a Rom or never used Linux 
+
+https://youtu.be/aF--LQDgg1M
+
+
+2] So see this first and if u get  error than PASTE ON 
+
+https://hastebin.com
+https://pastebin.com
+https://haste.blamealexcruz.com
+
+3] Clone this to your PC/server and setup the build environment
+ GitHub.com/akhilnarang/scripts (please read Readme.md there) 
+
+Some Xda thread for help
+
+https://forum.xda-developers.com/chef-central/android/guide-one-android-development-t3175121
+
+http://forum.xda-developers.com/chef-central/android/guide-how-to-build-rom-google-cloud-t3360430
+
+https://forum.xda-developers.com/showthread.php?p=52925659#post52925659
+
+https://forum.xda-developers.com/chef-central/android/guide-android-rom-development-t2814763
+
+
+
+-------------------------tx
+This was done in order to enable Media Transfer Protocol in my local ubuntu to phone
+sudo apt-get install go-mtpfs
+sudo apt-get install libmtp
+sudo apt-get install mtpfs mtp-tools
+
+---------------------------- Preparing ubuntu server 
+this one to compile the kernel
+
+sudo apt install openjdk-7*
+
+sudo apt-get update && sudo apt-get install git-core python gnupg flex bison gperf libsdl1.2-dev libesd0-dev libwxgtk2.8-dev squashfs-tools build-essential zip curl libncurses5-dev zlib1g-dev  openjdk-7-jdk pngcrush schedtool \
+ libxml2 libxml2-utils xsltproc lzop libc6-dev schedtool g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline-gplv2-dev gcc-multilib liblz4-* android-tools-adb android-tools-fastboot ccache
+
+
